@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'JamesFincher', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,20 +11,18 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
+    linkedin: 'James-Fincher',
+    twitter: '',
     facebook: '',
     dribbble: '',
     behance: '',
     medium: '',
-    dev: 'arifszn',
+    dev: 'im.jamesfincher.dev',
     website: 'https://arifszn.github.io',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'heartandkarma@gmail.com',
   },
   skills: [
-    'PHP',
-    'Laravel',
     'JavaScript',
     'React.js',
     'Node.js',
@@ -38,20 +36,7 @@ const config = {
     'Tailwind',
     'Bootstrap',
   ],
-  experiences: [
-    {
-      company: 'Monstarlab Bangladesh',
-      position: 'Backend Engineer II',
-      from: 'September 2021',
-      to: 'Present',
-    },
-    {
-      company: 'My Offer 360 Degree',
-      position: 'Web Application Developer',
-      from: 'July 2019',
-      to: 'August 2021',
-    },
-  ],
+  
   education: [
     {
       institution: 'American International University-Bangladesh',
